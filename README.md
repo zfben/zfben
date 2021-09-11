@@ -13,6 +13,6 @@ Recent pinned projcets:
 Other sites about me:
 
 - [Personal Website](https://zfben.com)
-- [My LinkedIn](www.linkedin.com/in/zhu-feng)
+- [My LinkedIn](https://www.linkedin.com/in/zhu-feng)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zfben)](https://github.com/zfben)
