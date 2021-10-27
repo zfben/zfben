@@ -2,17 +2,18 @@
 
 I'm Ben.
 
-A full stack developer in Shanghai, China.
+A freelancer full stack developer in Shanghai, China.
 
-Skilled in Web Applications with Node and Ruby.
+Skilled in frontend frameworks with **React, Vue and jQuery**.
 
-Recent pinned projcets:
+Skilled in backend languages with **Node.js, Ruby and PHP**.
 
-- [FaasJS](https://faasjs.com) An atomic FaaS Application Framework based on Typescript and Node.js
+Skilled in devOps tools with **Github, Gitlab and Jenkins**.
 
-Other sites about me:
+Skilled in database with **PostgreSql, Mysql and Redis**.
 
-- [Personal Website](https://zfben.com)
-- [My LinkedIn](https://www.linkedin.com/in/zhu-feng)
+Skilled in system with **Serverless, Kubeternes, Docker, Ubuntu and CentOS**.
+
+Feel free to contact me with email: [ben@zfben.com](mailto:ben@zfben.com)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zfben)](https://github.com/zfben)
