@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ben.
+I'm Ben. (Twitter: [@zfben](https://twitter.com/zfben))
 
 A freelancer full stack developer in Shanghai, China.
 
