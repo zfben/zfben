@@ -2,7 +2,7 @@
 
 I'm Ben. (Twitter: [@zfben](https://twitter.com/zfben))
 
-A freelancer full stack developer in Shanghai, China.
+A freelancer and full stack developer in Shanghai, China.
 
 Skilled in frontend frameworks with **React, Vue and jQuery**.
 
@@ -16,9 +16,4 @@ Skilled in system with **Serverless, Kubeternes, Docker, Ubuntu and CentOS**.
 
 Feel free to contact me with email: [ben@zfben.com](mailto:ben@zfben.com)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zfben)](https://github.com/zfben)
-
-# Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+[![GitHub Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zfben)](https://github.com/zfben)
