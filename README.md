@@ -17,3 +17,8 @@ Skilled in system with **Serverless, Kubeternes, Docker, Ubuntu and CentOS**.
 Feel free to contact me with email: [ben@zfben.com](mailto:ben@zfben.com)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zfben)](https://github.com/zfben)
+
+# Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
