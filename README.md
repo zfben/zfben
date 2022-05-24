@@ -1,3 +1,5 @@
+![Nyantocat](https://octodex.github.com/images/nyantocat.gif)
+
 # <👋Hello, World />
 
 I'm Ben.
@@ -28,6 +30,6 @@ DevOps tools with **Github, Gitlab and Jenkins**.
 
 Cloud providers with **AWS, Google Cloud, Tencent Cloud and Alibaba Cloud**.
 
-## Github Stats
+## Github Profile
 
 [![GitHub Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zfben)](https://github.com/zfben)
