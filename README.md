@@ -4,9 +4,9 @@
 
 I'm Ben.
 
-A freelancer and full stack developer in Shanghai, China.
+A freelancer and full stack developer.
 
-I love to write code, create products and solve problems.
+I love to code, create products and solve problems.
 
 ## 📬 Contact Me
 
@@ -32,4 +32,4 @@ Cloud providers with **AWS, Google Cloud, Tencent Cloud and Alibaba Cloud**.
 
 ## Github Profile
 
-[![GitHub Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zfben)](https://github.com/zfben)
+[![GitHub Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zfben&theme=github_dark)](https://github.com/zfben)
